@@ -1,9 +1,9 @@
 //
 //  NSBundle+Additions.swift
-//  GuudjobKit
+//  SugarLumpFoundation
 //
-//  Created by Mario Chinchilla on 17/4/18.
-//  Copyright © 2018 PetSpot. All rights reserved.
+//  Created by Mario Chinchilla on 10/10/18.
+//  
 //
 
 import Foundation

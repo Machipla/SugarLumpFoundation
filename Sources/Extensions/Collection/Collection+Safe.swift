@@ -1,8 +1,8 @@
 //
 //  Collection+Safe.swift
-//  Pods
+//  SugarLumpFoundation
 //
-//  Created by Mario Chinchilla on 18/7/17.
+//  Created by Mario Chinchilla on 10/10/18.
 //
 //
 

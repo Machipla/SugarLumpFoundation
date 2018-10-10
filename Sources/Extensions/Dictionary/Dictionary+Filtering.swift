@@ -1,8 +1,8 @@
 //
 //  Dictionary+Filtering.swift
-//  Eureka
+//  SugarLumpFoundation
 //
-//  Created by Mario Chinchilla on 29/5/18.
+//  Created by Mario Chinchilla on 10/10/18.
 //
 
 import Foundation

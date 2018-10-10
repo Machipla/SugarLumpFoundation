@@ -1,8 +1,8 @@
 //
 //  MCPOperators.swift
-//  Pods
+//  SugarLumpFoundation
 //
-//  Created by Mario Chinchilla on 21/5/17.
+//  Created by Mario Chinchilla on 10/10/18.
 //
 //
 

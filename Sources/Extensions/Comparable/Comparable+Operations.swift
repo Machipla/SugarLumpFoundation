@@ -1,8 +1,8 @@
 //
 //  Comparable+Operations.swift
-//  Pods
+//  SugarLumpFoundation
 //
-//  Created by Mario Chinchilla on 29/3/17.
+//  Created by Mario Chinchilla on 10/10/18.
 //
 //
 

@@ -1,6 +1,6 @@
 //
 //  Collection+Additions.swift
-//  Alamofire
+//  SugarLumpFoundation
 //
 //  Created by Mario Plaza on 19/7/18.
 //

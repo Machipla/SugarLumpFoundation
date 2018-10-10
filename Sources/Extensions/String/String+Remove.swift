@@ -1,8 +1,8 @@
 //
 //  String+Remove.swift
-//  Pods
+//  SugarLumpFoundation
 //
-//  Created by Mario Chinchilla on 2/6/17.
+//  Created by Mario Chinchilla on 10/10/18.
 //
 //
 

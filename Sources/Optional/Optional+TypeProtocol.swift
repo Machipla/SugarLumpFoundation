@@ -1,8 +1,8 @@
 //
 //  Optional+TypeProtocol.swift
-//  ADAppRater
+//  SugarLumpFoundation
 //
-//  Created by Mario Chinchilla on 22/11/17.
+//  Created by Mario Chinchilla on 10/10/18.
 //
 
 import Foundation
