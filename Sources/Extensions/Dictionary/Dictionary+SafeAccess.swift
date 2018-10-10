@@ -15,7 +15,7 @@ public extension Dictionary{
         updateValue(value!, forKey: key)
     }
     
-    func containsValue(on key:Key) -> Bool{ // Syntactic sugar :D
+    func containsValue(on key:Key) -> Bool{
         return self[key] != nil
     }
     

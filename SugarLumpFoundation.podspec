@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
   spec.name          = 'SugarLumpFoundation'
   spec.homepage      = "https://github.com/Machipla/SugarLumpFoundation"
-  spec.version       = '0.0.1'
+  spec.version       = '0.0.2'
   spec.platform      = :ios, "9.0"
   spec.authors       = 'Mario Chinchilla'
   spec.summary       = 'The Foundation module of SugarLump pod'

@@ -17,9 +17,9 @@ public struct StringPatternOptions: OptionSet{
     public static let startEndBlankSpaces    = StringPatternOptions(rawValue: 4)
     public static let lineBreaks             = StringPatternOptions(rawValue: 8)
     public static let emojis                 = StringPatternOptions(rawValue: 16)
-    public static let symbols                = StringPatternOptions(rawValue: 32) // Símbolos contenidos en NSCharacterSet symbolsCharacterSet y punctuationCharacterSet
+    public static let symbols                = StringPatternOptions(rawValue: 32) // Symbols contained in NSCharacterSet symbolsCharacterSet & punctuationCharacterSet
     public static let numbers                = StringPatternOptions(rawValue: 64)
-    public static let letters                = StringPatternOptions(rawValue: 128) // De A...Z y a...z
+    public static let letters                = StringPatternOptions(rawValue: 128) // From A...Z and a...z
     public static let inusualBlankSpaces:StringPatternOptions   = [.consecutiveBlankSpaces, .startEndBlankSpaces]
     public static let all:StringPatternOptions                  = [.blankSpaces, .consecutiveBlankSpaces, .startEndBlankSpaces, .lineBreaks, .emojis, .symbols, .numbers, .letters]
 }

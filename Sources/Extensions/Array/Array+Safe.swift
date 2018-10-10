@@ -30,7 +30,6 @@ public extension Array{
     }
     
     func safeSubarray(withRange range:Range<Int>) -> [Element]? {
-        // Obtenemos el rango seguro
         let safeRange:Range<Int> = range.clamped(to: 0..<self.count);
         return Array(self[safeRange]);
     }
